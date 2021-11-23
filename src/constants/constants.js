@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Unearthly Venues',
     description: "A fully featured web app that observes the MVC (model–view–controller) design pattern. Using the conceit of haunted locations, we provide an intuitive user experience for a user to book a cheap venue for their next party. The application enables users to find events nearby their residence. The website allows the user to schedule an event and book a venue as per their requirements. Having selected their venue, they have now booked their destination for their spooky celebration.",
-      image: '/images/1.PNG',
+      image: '/images/1.png',
       tags: ['JavaScript', 'Express', 'Handlebars', 'Node'],
     source: 'https://safe-garden-63694.herokuapp.com/',
     visit: 'https://github.com/graybishop/the-web-spinners',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'The Daily Felon',
     description:"Created a satirical newspaper that automatically generated silly news stories about random superheros apprehending criminals, with the heros (Using Marvel API) having a caulous disregard for appropriate use of force, and randomly selected mugshots of the alleged perpetrator (Using JailBase API).",
-    image: '/images/2.PNG',
+    image: '/images/2.png',
     tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://jamesstitzel.github.io/The-Daily-Felon/',
     visit: 'https://github.com/JamesStitzel/The-Daily-Felon',
