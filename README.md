@@ -34,7 +34,7 @@ My personal portfolio built using React. I'm continually adding projects, modify
 
   ## Screenshot:
 
-  ![Screenshot probudget]()
+  ![Screenshot probudget](./public/images/Capture.PNG)
 
   ## License:
   
